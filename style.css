@@ -1,10 +1,10 @@
 body {
-  background: linear-gradient(to right, rgba(255, 0, 0, 0.83), blue);
+  background: linear-gradient(to right, rgb(203, 102, 119), rgba(14, 158, 100));
 }
 button {
   padding: 0.5rem;
   margin-left: 3rem;
   font-size: 1rem;
   border-radius: 3px;
-  color: red;
+  /* color: red; */
 }
